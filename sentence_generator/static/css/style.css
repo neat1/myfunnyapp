@@ -20,8 +20,17 @@
 }
 
 #navbarheadline{
-  font-family: 'Anton', sans-serif;
+  font-family: 'Allan', cursive;
 }
+
+#demo {
+  font-family: 'Roboto Mono', monospace;
+}
+
+#big_text {
+  font-size: large;
+}
+
 
 #generated-text {
   margin: 0 auto;
